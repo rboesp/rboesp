@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with my drawing game (uses html5 canvas)
 - 📫 How to reach me: rboesp@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: A owm a maincoon kitty 🐈
+- ⚡ Fun fact: I owm a maincoon kitty 🐈
 
 ###### Website at [https://rboesp.github.io/pwr/](https://rboesp.github.io/pwr/)
 
