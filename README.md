@@ -8,5 +8,3 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I owm a maincoon kitty 🐈
 
-###### Website at [https://rboesp.github.io/pwr/](https://rboesp.github.io/pwr/)
-
